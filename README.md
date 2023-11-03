@@ -1,5 +1,5 @@
-# Black-Friday-Sales-Prediction-Using-Spark
- Build a Regression model trained on historic black friday sales data to predict future black friday sales.
+# Black-Friday-Sales-Prediction-Using-Spark(Regression)
+ Build a Regression model trained on historic black friday sales data to predict future black friday sales using PySpark.
  ### Step to Black-Friday-Sales-Prediction-Using-spark
  1. Load the dataset
  
